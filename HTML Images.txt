@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Heading</h2>
+    <img src="file:///C:/Users/wtoh1/OneDrive/Desktop/stuff/lockscreen.jpg"alt="mountains"width="548"height="308">
+    <br>
+    <img src="file:///C:/Users/wtoh1/OneDrive/Desktop/stuff/lockscreen.jpg"alt="mountains"style="width:274px;height:154px;">
+    <h2>Gif</h2>
+    <p>Moving images</p>
+    <img width="480"height="270"img src="file:///C:/Users/wtoh1/OneDrive/Desktop/bercouli%20vs%20vecta.gif">
+    <h2>Floating Images</h2>
+    <p><strong>Float the image to the right:</strong></p>
+    <p>
+        <img src="file:///C:/Users/wtoh1/OneDrive/Desktop/stuff/Laser/8%20gradient.png"alt="wt_Laser"style="float:right;width:42px;height:42px;">
+        A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
+    </p>
+    <p><strong>Float the image to the left:</strong></p>
+    <p>
+        <img src="file:///C:/Users/wtoh1/OneDrive/Desktop/stuff/Laser/8%20gradient.png"alt="wt_Laser"style="float:left;width:42px;height:42px;">
+        A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
+    </p>
+    <h2>Image as a link</h2>
+    <p>The image is a link, you can click on it.</p>
+    <a href="https://www.youtube.com/channel/UC7tDbfjlbMtATPn3XTW0Rmw">
+    <img src="file:///C:/Users/wtoh1/OneDrive/Desktop/stuff/Laser/8%20gradient.png" alt="wt_Laser" style="width:42px;height:42px;">
+</a>
+</body>
+</html>

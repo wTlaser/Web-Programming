@@ -1,0 +1,30 @@
+<iDOCTYPE html>
+<html>
+<body>
+<p><a href="C4">Constellation Lv. 4</a></p>
+<p><a href="C6">Constellation Lv. 6</a></p>
+<h1>Hu Tao</h1>
+<h2>Crimson Bouquet-Constellation Lv. 1</h2>
+<p>While in a Paramita Papilio state activated by Guide to Afterlife, Hu Tao's Charge Attacks do not consume Stamina.</p>
+<h2>Ominous Rainfall-Constellation Lv. 2</h2>
+<p>Increases the Blood Blossom DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.<br>
+Additionally, Spirit Soother will also apply the Blood Blossom effect.</p>
+<h2>Lingering Carmine-Constellation Lv. 3</h2>
+<p>Increases the Level of Guide to Afterlife by 3.<br>
+Maximum upgrade level is 15.</p>
+<h2 id="C4">Garden of Eternal Rest-Constellation Lv. 4</h2>
+<p>Upon defeating an enemy affected by a Blood Blossom that Hu Tao applied herself, <br>
+all nearby allies in the party (excluding Hu Tao herself) <br>
+will have their CRIT Rate increased by 12% for 15s.</p>
+</h2>Floral Incense-Constellation Lv. 5</h2>
+<p>Increases the Level of Spirit Soother by 3.<br>
+Maximum upgrade level is 15.</p>
+<h2 id="C6">Butterfly's Embrace-Constellation Lv. 6</h2>
+<p>Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:<br>
+Hu Tao will not fall as a result of the DMG sustained.<br>
+ Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, <br>
+her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.<br>
+This effect triggers automatically when Hu Tao has 1 HP left.<br>
+Can only occur once every 60s.</p>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<iDOCTYPE html>
+<html>
+<body>
+<pre>
+<b>Bold</b>
+<strong>Strong</strong>
+<i>Italic</i>
+<em>Emphasized</em>
+<mark>Marked</mark>
+<small>Small</small>
+<del>Deleted</del>
+<ins>Inserted</ins>
+<sub>Subscript</sub>
+<sup>Superscript</sup>
+</pre>
+</body>
+</html>

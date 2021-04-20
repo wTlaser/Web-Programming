@@ -1,0 +1,22 @@
+<iDOCTYPE html>
+<html>
+<head>
+<style>
+a:link {
+    background-color: #0000ff;
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 200%;
+}
+a:hover, a:active {
+    background-color: #0000e6;
+}
+</style>
+</head>
+<body>
+<a href="https://www.google.com.au/" target="_blank">Link</a>
+</body>
+</html>

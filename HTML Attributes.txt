@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>    
+<body>
+<a href="www.google.com.au">Click for a google search</a>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Character_Paimon_Card.png/revision/latest/scale-to-width-down/576?cb=20200602200646" alt="Emergency Food" width="500" height="600">
+
+<h1>This is a Heading</h1>
+<p title="Aqua" style="color:aqua;">What color is this?</p>
+<p title='Paimon "Emergency Food"Traveler'> Floaty thing</p>
+<p title="Paimon 'Emergency Food'Traveler"> Floaty thing</p>
+</body>
+</html>
